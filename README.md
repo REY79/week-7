@@ -1,2 +1,1 @@
-# week-7
-Topic 7: Background Video / Media Queries / Debugging
+# week-7-Code-Challenge-Web-Development-
